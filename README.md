@@ -45,3 +45,7 @@ Example:
 ``{
 "avgValue": 760332.99
 }``
+
+## Additional information:
+***
+To run integration tests, it is required to prepare an additional database in accordance with the settings in the src / test / resources / application.properties file
